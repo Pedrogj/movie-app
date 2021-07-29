@@ -12,14 +12,10 @@ export const Content = styled.div`
   max-width: 1280px;
   padding: 10px 0;
   margin: 0 auto;
-
-  h1 {
-    font-size: 25px;
-  }
 `;
 
 export const LogoImg = styled.img`
-  width: 50px;
+  width: 150px;
 `;
 
 export const TMDBLogoImg = styled.img`
